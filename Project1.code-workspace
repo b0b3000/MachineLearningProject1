@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Project1",
+			"path": "."
+		},
+		{
+			"name": "breast+cancer+wisconsin+diagnostic",
+			"path": "../../../Downloads/breast+cancer+wisconsin+diagnostic"
+		}
+	],
+	"settings": {}
+}
